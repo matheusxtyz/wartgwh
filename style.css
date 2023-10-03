@@ -1,0 +1,29 @@
+
+
+header {
+    background-color: black;
+color: beige;
+
+}
+
+.container{
+
+    background-color: blue;
+    align-items: center;
+    display: flex;
+    width: 95%;
+    height: auto;
+    align-items: center;
+    padding: 10px 10px;
+    border: 1px;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 27px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
